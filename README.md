@@ -1,6 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Minimal redirect to external link page, made with Create React App](https://github.com/facebook/create-react-app).
 
-## Minimal redirect to external link page, made with CRA
 
 ## Available Scripts
 
